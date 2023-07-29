@@ -1,0 +1,33 @@
+{"authors":[
+  {
+    "id":1,
+    "authorName":"William Shakespeare",
+    "birthDate":"5-5-1564",
+    "bioGraphy":" English poet and playwright. Famous plays include Macbeth, Romeo and Juliet, Merchant of Venice and Hamlet. Shakespeare is widely considered the seminal writer of the English language."
+  },
+   {
+    "id":2,
+    "authorName":"Jonathan Swift",
+    "birthDate":"7-9-1667 ",
+    "bioGraphy":"Anglo-Irish writer born in Dublin. Swift was a prominent satirist, essayist and author. Notable works include Gulliver’s Travels (1726), A Modest Proposal and A Tale of a Tub."
+  },
+   {
+    "id":3,
+    "authorName":"Alexandre Dumas",
+    "birthDate":"3-7-1802 ",
+    "bioGraphy":"French author of historical dramas, including – The Count of Monte Cristo (1844), and The Three Musketeers (1844). Also prolific author of magazine articles, pamphlets and travel books."
+  },
+   {
+    "id":4,
+    "authorName":"Leo Tolstoy ",
+    "birthDate":"10-10-1828",
+    "bioGraphy":"Russian novelist and moral philosopher. Famous works include the epic novels – War and Peace (1869) and Anna Karenina (1877). Tolstoy also became an influential philosopher with his brand of Christian pacificism."
+  },
+   {
+    "id":5,
+    "authorName":"Mark Twain",
+    "birthDate":"25-12-1835 ",
+    "bioGraphy":"American writer and humorist, considered the ‘father of American literature’. Famous works include The Adventures of Tom Sawyer (1876) and Adventures of Huckleberry Finn (1885)."
+  }
+]
+}
